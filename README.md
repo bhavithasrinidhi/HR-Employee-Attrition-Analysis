@@ -31,7 +31,10 @@ To analyze employee attrition patterns and identify the major factors contributi
 - Provide better support for employees with frequent travel
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+![Dashboard](Attrition_Dashboard.png)
 
 ## SQL Queries
-Project includes SQL queries used for attrition analysis and KPI calculations.
+![SQL](Attrition_SQL queries.png)
+
+## Insights
+![Insights](Attrition_Insight.png)
