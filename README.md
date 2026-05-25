@@ -34,7 +34,7 @@ To analyze employee attrition patterns and identify the major factors contributi
 ![Dashboard](Attrition_Dashboard.png)
 
 ## SQL Queries
-![SQL](Attrition_SQL queries.png)
+![SQL](Attrition_SQLqueries.png)
 
 ## Insights
 ![Insights](Attrition_Insight.png)
